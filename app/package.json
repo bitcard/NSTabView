@@ -1,16 +1,16 @@
 {
-    "name":"tns-template-hello-world",
+    "name”:”NSTabView”,
     "version":"0.9.0",
-    "description":"Hello World project template for NativeScript",
+    "description":"NativeScript TabView demo.",
     "repository": {
         "type":"git",
-        "url":"git://github.com/NativeScript/template-hello-world.git"
+        "url":"git://github.com/bitcard/NSTabView.git"
     },
     "keywords":["nativescript","tns","appbuilder","telerik","mobile"],
-    "author":"Telerik",
+    "author”:”bitcard",
     "bugs": {
-        "url":"https://github.com/NativeScript/template-hello-world/issues"
+        "url":"https://github.com/bitcard/NSTabView/issues"
     },
     "license":"Apache-2.0",
-    "homepage":"https://github.com/NativeScript/template-hello-world"
+    "homepage":"https://github.com/bitcard/NSTabView"
 }
